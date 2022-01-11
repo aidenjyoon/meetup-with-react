@@ -19,6 +19,7 @@ const MeetupItem = (props) => {
       });
     }
   };
+
   return (
     <Card>
       <li className={styles.item}>
